@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: auto;
+    height: 530px;
+}
+header, footer{
+    height: 100px;
+    background-color: aquamarine;
+}
+
+.box{
+    display: flex;
+    justify-content: space-evenly;
+    height: 300px;
+}
+#box{
+    width: 300px;
+    background-color: cadetblue;
+}
+a{
+    text-decoration: none;
+}
